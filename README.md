@@ -1,4 +1,4 @@
-# Hi, I'm Shihab Aziz 👋
+ # Hi, I'm Shihab Aziz 👋
 
 I'm a Computer Science undergraduate interested in building software, solving problems, and continuously improving my fundamentals.
 
@@ -9,7 +9,7 @@ I'm a Computer Science undergraduate interested in building software, solving pr
 - Java & Object-Oriented Programming
 - Git & GitHub
 - Competitive Programming
-- Software Development
+- Software Engineering Fundamentals
 
 ## 🛠️ Technologies
 
@@ -18,28 +18,37 @@ I'm a Computer Science undergraduate interested in building software, solving pr
 - C++
 - Java
 
-### Currently Exploring
+### Tools
 
-- Data Structures & Algorithms
+- Git
+- GitHub
+
+### Exploring
+
 - Competitive Programming
-- AI
+- Artificial Intelligence
 - Open Source
 
 ## 📚 My Learning Journey
 
-I'm using GitHub to document my progress, projects, problem-solving practice, and experiments as I grow as a Computer Science student.
+I'm using GitHub to document what I build, what I learn,
+and the problems I solve along the way.
+
+My focus is on building strong fundamentals first,
+then gradually turning those fundamentals into real-world projects.
 
 ## 🎯 Goals
 
 - Build strong programming fundamentals
 - Improve problem-solving skills
+- Become consistent with competitive programming
 - Build meaningful software projects
 - Contribute to open source
 - Prepare for software engineering internships
 
-## 📂 Featured Projects
+## 💻 Projects
 
-Coming soon...
+Projects will be added here as I build and document them.
 
 ## 📫 Connect With Me
 
