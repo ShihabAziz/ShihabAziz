@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Shihab Aziz 👋
 
-<!--
-**ShihabAziz/ShihabAziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate interested in building software, solving problems, and continuously improving my fundamentals.
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C++
+- Data Structures & Algorithms
+- Java & Object-Oriented Programming
+- Git & GitHub
+- Competitive Programming
+- Software Development
+
+## 🛠️ Technologies
+
+### Languages
+
+- C++
+- Java
+
+### Currently Exploring
+
+- Data Structures & Algorithms
+- Competitive Programming
+- AI
+- Open Source
+
+## 📚 My Learning Journey
+
+I'm using GitHub to document my progress, projects, problem-solving practice, and experiments as I grow as a Computer Science student.
+
+## 🎯 Goals
+
+- Build strong programming fundamentals
+- Improve problem-solving skills
+- Build meaningful software projects
+- Contribute to open source
+- Prepare for software engineering internships
+
+## 📂 Featured Projects
+
+Coming soon...
+
+## 📫 Connect With Me
+
+- GitHub: [@ShihabAziz](https://github.com/ShihabAziz)
